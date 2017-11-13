@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Névnap Calendar</string>
+    <string name="Main_greetings_message">Mai névnap!</string>
+    <string name="Incoming_events">Közelgő események!</string>
+    <string name="Add_a_new_event">Adj egy új eseményt!</string>
+    <string name="event_string">Ez még csak próbaverzió! :)</string>
+    <string name="start_notif">Értesítés bekapcsolása</string>
+    <string name="cancel_action">Értesítés kikapcsolása</string>
+</resources>
